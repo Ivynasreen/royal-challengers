@@ -1,0 +1,109 @@
+[{
+    "id": 1,
+    "name": "Virat Kohli",
+    "salary": 17000000,
+    "team" : "India",
+    "role": "Batsman",
+    "image" : "https://static.abplive.com/wp-content/uploads/2020/04/03164323/Virat-Kohli.jpg?impolicy=abp_images&imwidth=1200"
+  }, {
+    "id": 2,
+    "name": "Josh Phillipe",
+    "salary": 20000000,
+    "team": "Australlia",
+    "role": "Batsman",
+    "image": "https://www.sydneysixers.com.au/-/media/Players/Men/Domestic/Sydney%20Sixers/BBL10/Josh-Philippe-BBL10.ashx"
+
+  }, {
+    "id": 3,
+    "name": "Daniel Sams",
+    "salary": 20000000,
+    "team": "Australlia",
+    "role": "All Rounder",
+    "image": "https://www.sydneysixers.com.au/-/media/Players/Men/Domestic/Sydney%20Thunder/BBL10/Daniel-Sams-BBL10.ashx"
+  }, {
+    "id": 4,
+    "name": "Glen Maxwell",
+    "salary": 142500000,
+    "team": "Australlia",
+    "role": "All Rounder",
+    "image": "https://storage.googleapis.com/cricketimages/Players/7Q.png"
+  }, {
+    "id": 5,
+    "name": "KS Bharat",
+    "salary": 2000000,
+    "team": "India",
+    "role":"Batsman",
+    "image": "https://www.wikibuff.com/wp-content/uploads/2019/11/kona-srikar-bharat-biography-age-height-family-facts-1200x1266.jpg"
+  }, {
+    
+    "id": 6,
+    "name": "Adam Zampa",
+    "salary": 10000000,
+    "team": "Australlia",
+    "role": "Bowler",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/958.png"
+    
+  }, {
+    "id": 7,
+    "name": "Daniel Christian",
+    "salary": 48000000,
+    "team": "Australlia",
+    "role": "All Rounder",
+    "image": "https://starsunfolded.com/wp-content/uploads/2018/02/Daniel-Christian.jpg"
+  }, {
+    "id": 8,
+    "name": "Devdut Padikkal",
+    "salary": 20000000,
+    "team": "India",
+    "role": "Batsman",
+    "image": "https://m.cricbuzz.com/a/img/v1/600x400/i1/c192831/an-ipl-debut-for-devdutt-padikkal-this-year-will-perfectly-align-with-his-sharp-rise-in-indian-cricket.jpg"
+  }, {
+    "id": 9,
+    "name": "Kane Richardson",
+    "salary": 50000000,
+    "team": "Australlia",
+    "role": "Bowler",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/798.png"
+  }, {
+    "id": 10,
+    "name": "Harshal Patel",
+    "salary": 2000000,
+    "team" : "India",
+    "role": "Bowler",
+    "image": "https://www.pngkit.com/png/detail/269-2697634_harshal-patel-age-height-weight-biography-records-harshal.png"
+  }, {
+    "id": 11,
+    "name": "M. Azharuddeen",
+    "salary": 2000000,
+    "team": "India",
+    "role": "Batsman",
+    "image": "https://www.crictracker.com/wp-content/uploads/2021/01/Mohammed-Azharuddeen.jpg"
+  }, {
+    "id": 12,
+    "name": "Sachin Baby",
+    "salary": 2000000,
+    "team": "India",
+    "role": "Batsman",
+    "image": "https://moneyball.insidesport.co/img/singleplayer/SachinBaby1.jpg"
+  }, {
+    "id": 13,
+    "name": "Rajat Patidar",
+    "salary": 2000000,
+    "team":"India",
+    "role": "Batsman",
+    "image": "https://timesofindia.indiatimes.com/photo/49700450.cms"
+  }, {
+    "id": 14,
+    "name": "Kyle Jamieson",
+    "salary": 150000000,
+    "team" : "New Zealand",
+    "role": "Bowler",
+    "image": "https://starsunfolded.com/wp-content/uploads/2020/02/Kyle-Jamieson.jpg"
+  }, {
+    "id": 15,
+    "name": "AB de Villiers ",
+    "salary": 200000000,
+    "team": "South Africa",
+    "role": "Batsman",
+    "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/11/11/937051-ab-de-villiers.jpg"
+  }]
